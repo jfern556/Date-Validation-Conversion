@@ -4,8 +4,6 @@
 
  AUTHOR: Jessica Fernandez-Rubio
 
- PID   : 5795311
-
  Programming III. Fifth Assignment
 
  PROGRAM DESCRIPTION: This program will be getting lines form stdin and reading 
